@@ -1,2 +1,1 @@
-# CODTECH
-CODTECH TASK 1
+# FileHandling Project
